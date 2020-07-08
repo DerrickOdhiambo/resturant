@@ -3,10 +3,14 @@ body{
   margin: 0;background-color: black;
   color: whitesmoke;
   font-family: sans-serif;
-  text-align: center;
 }
 h1{
   color: skyblue;
   text-decoration: underline;
   text-transform: uppercase;
+  text-align: center;
+}
+h2{
+  color: darkred;
+  padding-top: 50px;
 }
