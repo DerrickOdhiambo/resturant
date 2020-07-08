@@ -12,10 +12,14 @@ h1{
 }
 h2{
   color: darkred;
-  padding-top: 20px;
+  padding-top: 5px;
   text-align: center;
 }
 p{
   padding: 30px;
   font-size: 18px;
+}
+img{
+  height: 300px;
+  width: 500px;
 }
