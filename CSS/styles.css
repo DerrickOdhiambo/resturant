@@ -5,3 +5,8 @@ body{
   font-family: sans-serif;
   text-align: center;
 }
+h1{
+  color: skyblue;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
